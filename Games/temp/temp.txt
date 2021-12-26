@@ -1,0 +1,31 @@
+Информация об установке:
+Каталог src создан - Sun Dec 26 22:32:57 GST 2021
+Каталог res создан - Sun Dec 26 22:32:57 GST 2021
+Каталог savegames создан - Sun Dec 26 22:32:57 GST 2021
+Каталог temp создан - Sun Dec 26 22:32:57 GST 2021
+Каталог main создан - Sun Dec 26 22:32:57 GST 2021
+Каталог test создан - Sun Dec 26 22:32:57 GST 2021
+Каталог drawables создан - Sun Dec 26 22:32:57 GST 2021
+Каталог vectors создан - Sun Dec 26 22:32:57 GST 2021
+Каталог icons создан - Sun Dec 26 22:32:57 GST 2021
+Файл Main.java создан - Sun Dec 26 22:32:57 GST 2021
+Файл Utils.java создан - Sun Dec 26 22:32:57 GST 2021
+
+
+Файл save1.dat создан - Sun Dec 26 22:32:57 GST 2021
+Файл save2.dat создан - Sun Dec 26 22:32:57 GST 2021
+Файл save3.dat создан - Sun Dec 26 22:32:57 GST 2021
+
+Архив zipSave1.zip создан - Sun Dec 26 22:32:57 GST 2021
+Архив zipSave2.zip создан - Sun Dec 26 22:32:57 GST 2021
+Архив zipSave3.zip создан - Sun Dec 26 22:32:57 GST 2021
+
+Файл save1.dat удален - Sun Dec 26 22:32:57 GST 2021
+Файл save2.dat удален - Sun Dec 26 22:32:57 GST 2021
+Файл save3.dat удален - Sun Dec 26 22:32:57 GST 2021
+
+Архив zipSave1.zip распакован - Sun Dec 26 22:32:57 GST 2021
+
+Файл zipsave1.dat открыт - Sun Dec 26 22:32:57 GST 2021
+ Содержание файла: 
+Здоровье - 95, Оружие - 2, Уровень - 3, Процент прохождения игры - 12.3}
